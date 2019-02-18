@@ -1,1 +1,2 @@
-# Project_SNU_DANS
+# SNU_DANS
+Repo for Data Analysis in Neuroscience at SNU
